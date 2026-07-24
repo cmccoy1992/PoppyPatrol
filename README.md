@@ -1,4 +1,4 @@
-# ShibaPatrol
+# Poppy Patrol
 Capstone project for Code:You. A text-based adventure where you play as the Shiba Inu, Poppy, and secure her home from potential threats.
 
 ===RUNNING===
@@ -9,7 +9,7 @@ Open the ShibaPatrol folder and repeat the process, and the program will begin.
 
 ===HOW TO PLAY===
 
-Shiba Patrol is a text-based adventure; you perform actions by typing in the letter of the action you would like to perform. 
+Poppy Patrol is a text-based adventure; you perform actions by typing in the letter of the action you would like to perform. 
 
 The player must go through the rooms and "Secure" them by investigating each room. See "Investigation" below.
 
@@ -52,7 +52,7 @@ The game ends in one of two ways:
 
 When this occurs, Poppy will get an ending based on:
 
--How secure the room was
+-The security level of the house
 
 -How much mischief she got into
 
